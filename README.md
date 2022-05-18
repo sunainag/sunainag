@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Sunaina's github stats](https://github-readme-stats.vercel.app/api?username=sunainag&show_icons=true&theme=tokyonight&count_private=true)
+
 <!--
 **sunainag/sunainag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
